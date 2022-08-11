@@ -1,1 +1,12 @@
-# maquina-cabeza-de-tu-habbo-bot-discord
+Maquina insipirada:
+<a href="https://habtium.es/furni/item/4090">https://habtium.es/furni/item/4090</a>
+<br>
+<br>
+Comando para usar el bot:
+<br>
+!maquina .iroke.
+<br>
+<br>
+Imagen:
+<br>
+<img title="Maquina .iroke." src="https://i.imgur.com/W7Omswh.png">
